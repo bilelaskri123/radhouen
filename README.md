@@ -8,7 +8,7 @@ I love sharing my knowledge and experience, contribute to open source projects r
 I write articles for [**DevOps **](devopstutorial.tech/)
 
 <!-- 🤔  I’m currently open for: A new job opportunity, [LINK TO MY RESUME](https://drive.google.com/file/d/1fvV8oI7sRQOdcccy3OgXfesuMtUwHd07/view?usp=sharing). -->
-- 🎯 **I’m currently focusing on**: [Kubernetes](kubernetes.io/) and [Helm](https://helm.sh/), ⭐️ star the projects if you like it 🤩.
+- 🎯 **I’m currently focusing on**: [Kubernetes](https://kubernetes.io/) and [Helm](https://helm.sh/), ⭐️ star the projects if you like it 🤩.
 
 - 🔭 **Also, I’m working on**: Something cool related to AI and DevOps and soon will publish it 😉.
 
