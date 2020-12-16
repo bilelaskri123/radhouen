@@ -1,11 +1,12 @@
 ### Hi there, I'am Assakra Radhouen! 👋
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/assakraradhouen/)
+[![Blog URL](https://img.shields.io/static/v1?color=red&label=blog&logo=blog&logoColor=white&style=for-the-badge&message=Connect)](https://devopstutorial.tech/)
 
 **I speak JavaScript, I am a DevOps engineer,Full stack developer , Author,Youtuber, International Speaker, Trainer, and technology enthusiast.**
 
 I love sharing my knowledge and experience, contribute to open source projects related to DevOps and  development, and sharing PoCs & problems as code on this repository.
 
-I write articles for [**DevOps **](devopstutorial.tech/)
+I write articles for [**Docker, kubernetes , Helm, Go and others technologies **](https://devopstutorial.tech/)
 
 <!-- 🤔  I’m currently open for: A new job opportunity, [LINK TO MY RESUME](https://drive.google.com/file/d/1fvV8oI7sRQOdcccy3OgXfesuMtUwHd07/view?usp=sharing). -->
 - 🎯 **I’m currently focusing on**: [Kubernetes](https://kubernetes.io/) and [Helm](https://helm.sh/), ⭐️ star the projects if you like it 🤩.
