@@ -26,7 +26,7 @@ I write articles for [**DevOps **](devopstutorial.tech/)
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=radhouen&show_icons=true&theme=radical" />
 </a> 
 <a href="https://github.com/radhouen">
-  <img align="center" src="https://github.com/radhouen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhouen" />
 </a>
   
 
